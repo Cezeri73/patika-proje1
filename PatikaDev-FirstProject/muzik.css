@@ -1,0 +1,70 @@
+.header {
+  padding-top:10px;
+  text-align: center;
+  color: chocolate;
+  background-color: rgb(0, 162, 255);
+  height: 100PX;
+}
+
+.navigation {
+  height: 25px;
+  background-color: aquamarine;
+  text-align: center;
+}
+.anasayfa {
+
+
+color: #ffffff;
+ padding: 50px;
+ height: 100px;
+ background-image: url("https://www.ozenduvarkagidi.com.tr/images/urunler/Muzik-Aletleri-Renkli-Duvar-Kagidi-resim-11561.jpg");
+ background-position: center;
+ 
+  
+  text-align: center;
+ 
+}
+.par{
+  
+  margin-top: 25px;
+  color: rgb(226, 43, 43);
+  
+  
+}
+
+a {
+  margin: 10px;
+}
+
+.aletler {
+  margin-top: 100px;
+  background-color: aquamarine;
+  text-align: center;
+}
+ul {
+  display: inline-block;
+}
+
+ol {
+  text-align: center;
+}
+
+.title-urun {
+    text-align: center;
+    
+}
+.aboutus{
+  background-color: rgb(247, 213, 241);
+  width: 100%;
+  height: 70%;
+  
+  
+  text-align: center;
+}
+
+h2{
+  color: rgb(18, 90, 90);
+}
+h1{
+  color: rgb(243, 152, 247);
+}
